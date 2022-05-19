@@ -5,7 +5,7 @@ var ctx = canvas.getContext("2d");
 
 var x = 0;
 var y = 0;
-var incrementor = 5;
+var incrementor = 2;
 
 var name = prompt("what is your name?");
 var answer = "Welcome " + name;
